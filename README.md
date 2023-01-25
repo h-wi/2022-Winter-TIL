@@ -120,3 +120,15 @@ Today I Learned :
 2. [VaryRecycle 앱 UI 구성 (모각소 3차 모임)](http://ovenapp.io/project/u5OHOgHQjLy5iWE6GTd27oWjdQiDbPVl)
 
 2. 노마트코더 웹툰 앱에 이메일 인증 & 구글 인증 기능 추가
+
+- [23.01.25](https://github.com/h-wi/2022-Winter-TIL/tree/main/0125)
+
+Today I Learned :
+
+1. Navigator를 통한 Page Routing 방법
+
+2. firebase_storage package를 이용해서 Firebase 서버에 이미지 파일 업로드
+
+3. await 호출과 네비게이터로 빌드 시에 if (!mounted) return; 추가해서 동기화하기
+
+---
