@@ -121,6 +121,8 @@ Today I Learned :
 
 2. 노마트코더 웹툰 앱에 이메일 인증 & 구글 인증 기능 추가
 
+---
+
 - [23.01.25](https://github.com/h-wi/2022-Winter-TIL/tree/main/0125)
 
 Today I Learned :
@@ -132,3 +134,27 @@ Today I Learned :
 3. await 호출과 네비게이터로 빌드 시에 if (!mounted) return; 추가해서 동기화하기
 
 ---
+
+- [23.01.31](https://github.com/h-wi/2022-Winter-TIL/tree/main/0131)
+
+Today I Learned : 
+
+1. [TensorFlow Lite를 통한 커스텀 객체 감지 모델 배포 방법, 구글 클라우드 dataset 사용](https://developers.google.com/codelabs/tflite-object-detection-android?continue=https%3A%2F%2Fdevelopers.google.com%2Flearn%2Fpathways%2Fgoing-further-object-detection%3Fhl%3Den&hl=ko#0)
+
+2. 플러터의 MainActivity.kt 파일을 수정해서 프로젝트에도 적용해볼려고 했지만 플러터는 안드로이드 파일만 수정이 불가능했다..
+
+![image](https://user-images.githubusercontent.com/108285793/216071587-7b83b18d-20ae-4476-9120-10b63d9ee9fd.png)
+
+## Febraury
+
+- [23.02.01](https://github.com/h-wi/2022-Winter-TIL/tree/main/0201)
+
+Today I Learned :
+
+1. tflite_model_make API를 통해서 커스텀 객체 감지 모델 빌드(커스텀 dataset 사용)
+
+2. epoch 조정 및 batch size 조정을 통한 모델 성능 개선
+
+3. 코드랩 어플리케이션에 배포
+
+![image](https://user-images.githubusercontent.com/108285793/216071419-7f8515b3-f0ef-4bc9-9829-d1657ed8acd5.png)
