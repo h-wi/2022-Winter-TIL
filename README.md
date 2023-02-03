@@ -158,3 +158,17 @@ Today I Learned :
 3. 코드랩 어플리케이션에 배포
 
 ![image](https://user-images.githubusercontent.com/108285793/216071419-7f8515b3-f0ef-4bc9-9829-d1657ed8acd5.png)
+
+---
+
+- [23.02.03](https://github.com/h-wi/2022-Winter-TIL/tree/main/0203)
+
+Today I Learned :
+
+1. [Roboflow에서 custom dataset(캔) 제작](https://app.roboflow.com/varyrecycle/can-cwf4o/overview)
+
+<img width="881" alt="image" src="https://user-images.githubusercontent.com/108285793/216554771-3e4b6e98-77f9-481e-bc23-d25fc18550b2.png">
+
+2. YOLOv5를 통해 object detection 모델(캔) 빌드
+
+3. [Flask API에서 이미지 데이터 preprocessing](https://github.com/h-wi/vary-recycle-flask-server)
