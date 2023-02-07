@@ -183,3 +183,13 @@ Today I Learned :
 2. 플라스틱 재활용 감지 모델 4개의 class에 대해서 빌드하기 (뚜껑, 라벨, 내용물, 찌그러트림)
 
 ---
+
+- [23.02.07](https://github.com/h-wi/2022-Winter-TIL/tree/main/0207)
+
+Today I Learned :
+
+1. 유리병, 종이 및 박스 Object Detect Model 빌드 -> https://app.roboflow.com/varyrecycle
+
+2. 각 모델에 대한 Inference 결과 후처리 코드 작성
+
+---
