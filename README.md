@@ -193,3 +193,27 @@ Today I Learned :
 2. 각 모델에 대한 Inference 결과 후처리 코드 작성
 
 ---
+
+- [23.02.20](https://github.com/h-wi/2022-Winter-TIL/tree/main/0220)
+
+Today I Learned :
+
+1. 여러 물체에 대한 정보 처리 코드 구현 (Vary recycle -flask server)
+
+2. LG Aimers 1강 내용 정리
+- https://velog.io/@h-wi/57blkx1s -> Module 1.1 
+- https://velog.io/@h-wi/Module-1.2-%EC%8B%A0%EB%A2%B0%EC%84%B1%EA%B3%BC-ICT-%EC%98%88%EC%A7%80%EB%B3%B4%EC%A0%84 -> Module 1.2
+
+---
+
+- [23.02.21](https://github.com/h-wi/2022-Winter-TIL/tree/main/0221)
+
+Today I Learned :
+
+1. Placstic 병에 대한 YOLOv5s 모델 성능 개선
+
+2. 모델 train을 위한 데이터 전처리
+
+![image](https://user-images.githubusercontent.com/108285793/220274874-df915352-31d1-485f-a104-7a8ac7910d0a.png)
+
+---
